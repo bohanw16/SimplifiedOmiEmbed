@@ -1,5 +1,9 @@
+# Simplified OmiEmbed
+**A Modified Self-supervised Model For Cancer Classification**
+
 ## Introduction
 
+A modified self-supervised model for cancer classfication that achieves comparable prediction accuracies with significantly faster training time.
 
 ### Create environment
 -   For pip users
@@ -16,7 +20,7 @@ python train_test.py
 ```
 -   Check the output files flowing the path in exp parameters
 ```bash
-cd EXP FOLDER PATH/ 
+cd EXP FOLDER PATH/
 ```
 -   Visualise the metrics and losses
 ```bash
